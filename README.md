@@ -86,10 +86,10 @@ Games I really enjoyed: Sekiro, Bloodborne, Monster Hunter series, Mario Bros se
 
 ## You can reach me through:
 
-[![Instagram](https://img.shields.io/badge/stardust__lid-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/stardust_lid/)
-[![LinkedIn](https://img.shields.io/badge/Calvin_Li-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/calvin-kin-fung-li/)
-![Gmail](https://img.shields.io/badge/calvin.li@flurry.finance-D14836?style=flat&logo=gmail&logoColor=white)
-![Outlook](https://img.shields.io/badge/kfliad@connect.ust.hk-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/stardust_lid/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/calvin-kin-fung-li/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](calvin.li@flurry.finance)
+[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)](kfliad@connect.ust.hk)
 
 ## Oh wait, where did this guy's Electronic Engineering go?
 

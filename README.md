@@ -1,14 +1,14 @@
 # An Introduction to Stardust
 
-Hey! This is Stardust here. I'm a dual degree student in **Computer Science** and **General Business Management** (plus a 3rd major in **Electronic Engineering**) at HKUST.
+Hey! This is :stars:Stardust here. I'm a dual degree student in **Computer Science** and **General Business Management** (plus a 3rd major in **Electronic Engineering**) at HKUST.
 
 ## Who am I?
 
-- Currently a dev team member of [Flurry Finance](https://www.flurry.finance/) (GitHub profile [here](https://github.com/FlurryFinance)), a DeFi yield aggregator
-- Led a student analyst team in prototyping a FinTech startup prediction model by ML for the [UBS Group AG (Zurich Headquarters)](https://www.ubs.com) in 2020 Q4
-- Team Leadder and Senior Hardware Engineer in the Robocon Subteam of the [HKUST Robotics Team](https://robotics.ust.hk/) in my junior years at university
+- Currently a dev team member of :snowflake:[Flurry Finance](https://www.flurry.finance/) (GitHub profile [here](https://github.com/FlurryFinance)), a DeFi yield aggregator
+- Led a student analyst team in prototyping a :chart_with_upwards_trend:FinTech startup prediction model by ML for [UBS Group AG (Zurich HQ)](https://www.ubs.com) in 2020 Q4
+- Team Leader and :zap:Senior Hardware Engineer in the Robocon Subteam of the [HKUST Robotics Team](https://robotics.ust.hk/) in my junior years at university
 
-I usually spend my own time enjoying anime and video games.
+I usually spend my own time enjoying :two_hearts:anime, :video_game:video games and :yum:food.
 
 ## My Programming Languages:
 

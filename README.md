@@ -52,6 +52,7 @@ AI / ML / Data Science:
 
 Software Testing:
 
+![JUnit](https://img.shields.io/badge/JUnit5-25a162?style=flat&logo=JUnit5&logoColor=white)
 ![Mocha](https://img.shields.io/badge/Mocha-%238D6748?style=flat&logo=Mocha&logoColor=white)
 ![Chai](https://img.shields.io/badge/Chai-e9ce99?style=flat&logo=chai&logoColor=9b1b14)
 

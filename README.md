@@ -1,4 +1,4 @@
-# An Introduction to Stardust
+# A (Sound and Precise) Introduction to Stardust
 
 Hey! This is :stars:Stardust here. I'm a dual degree student in **Computer Science** and **General Business Management** (also planning to pursue 3rd major in **Electronic Engineering**) at HKUST.
 
@@ -51,6 +51,19 @@ Languages:
 | Signals / Control | ![Matlab](https://img.shields.io/badge/Matlab-a83506.svg?style=flat&logo=matlab&logoColor=white) |
 | Robotics / Embedded System | ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white) ![STM32](https://img.shields.io/badge/STM32-03234b.svg?style=flat&logo=STMicroelectronics&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) |
 | Frontend / Web / UI | ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Android Studio](https://img.shields.io/badge/Android_Studio-6e6e6e.svg?style=flat&logo=androidstudio&logoColor=94c855) ![Material Design](https://img.shields.io/badge/Material_Design-757575.svg?style=flat&logo=material-design&logoColor=black) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=WordPress&logoColor=white) |
+
+## Open-Sourcing My Code
+
+I'll always try my best to open-source my code if possible.
+Here are a few heuristics:
+
+- [This profile](https://github.com/StardustLID/StardustLID) and [CV](https://github.com/StardustLID/CV) are always "public".
+- Code for courses is "public" (possibly "archive") if:
+  - all collaborators give consent; AND
+  - its submission deadline has passed if it is a project; AND
+  - open-sourcing is NOT explicity forbidden by the instructor; AND
+  - it is NOT reused as graded work across semesters (let's be fair and don't give spoilers)
+- **Proprietary code is never forked or made "public".** However, I'm happy to discuss implementation details as long as I'm allowed to do so.
 
 ## Gaming:
 

@@ -1,18 +1,18 @@
 # A (Sound and Precise) Introduction to Stardust
 
-Hey! This is :stars:Stardust here. I'm a dual degree student in **Computer Science** and **General Business Management** (also planning to pursue 3rd major in **Electronic Engineering**) at HKUST.
+Hey! This is :stars:Stardust here. I'm a year 3 [dual degree](https://techmgmt.hkust.edu.hk/) student in **Computer Science** and **General Business Management** (also planning to pursue 3rd major in **Electronic Engineering**) at [HKUST](https://hkust.edu.hk/home).
 
 ## Who am I?
 
-- Currently a dev team member of :snowflake:[Flurry Finance](https://www.flurry.finance/) (GitHub profile [here](https://github.com/FlurryFinance)), a DeFi yield aggregator
-- Led a student analyst team in prototyping a :chart_with_upwards_trend:FinTech startup prediction model by ML for [UBS Group AG (Zurich HQ)](https://www.ubs.com) in 2020 Q4
+- Currently a developer at :snowflake:[Flurry Finance](https://www.flurry.finance/) (GitHub profile [here](https://github.com/FlurryFinance)), a DeFi yield aggregator
+- Led a student analyst team in prototyping a :chart_with_upwards_trend:FinTech startup prediction model by ML for [UBS (Zurich HQ)](https://www.ubs.com) in 2020 Q4
 - Team Leader and :zap:Senior Hardware Engineer in the Robocon Subteam of the [HKUST Robotics Team](https://robotics.ust.hk/) in my junior years at university
 
-I usually spend my own time enjoying :two_hearts:anime, :video_game:video games and :yum:food.
+I usually spend my own time enjoying :two_hearts:anime, :video_game:video games, :yum:food and :coffee:coffee (drinkable coffee, not `Java`).
 
 ## My Research Interests
 
-I wish to do research that involve **numerical methods** and their **implementation in code**. Possible fields are:
+I wish to do research that involves **numerical methods** and their **implementation in code**. Possible fields are:
 - scientific computing
 - signal processing
 - optimization
@@ -44,7 +44,7 @@ I wish to do research that involve **numerical methods** and their **implementat
 
 | Area | Language | Tech Stack |
 | :--- | :--- | :--- |
-| Signals / Control | ![Matlab](https://img.shields.io/badge/Matlab-a83506.svg?style=flat&logo=matlab&logoColor=white) | |
+| Signals / Control | ![Matlab](https://img.shields.io/badge/Matlab-a83506.svg?style=flat&logo=matlab&logoColor=white) | Simulink |
 | Robotics / Embedded System | ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) | ![STM32](https://img.shields.io/badge/STM32-03234b.svg?style=flat&logo=STMicroelectronics&logoColor=white) |
 | Web / UI | ![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat&logo=HTML5) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white) (*) ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) (**) | ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=flat&logo=chart.js&logoColor=white) ![Material Design](https://img.shields.io/badge/Material_Design-757575.svg?style=flat&logo=material-design&logoColor=black) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=WordPress&logoColor=white) |
 | Mobile | ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) | ![Android Studio](https://img.shields.io/badge/Android_Studio-6e6e6e.svg?style=flat&logo=androidstudio&logoColor=94c855) ![Material Design](https://img.shields.io/badge/Material_Design-757575.svg?style=flat&logo=material-design&logoColor=black) |

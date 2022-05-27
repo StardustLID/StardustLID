@@ -1,10 +1,14 @@
-# A (Sound and Precise) Introduction to Stardust
+# A (Sound and Complete) Introduction to Stardust
 
-Hey! This is :stars:Stardust here. I'm a year 3 [dual degree](https://techmgmt.hkust.edu.hk/) student in **Computer Science** and **General Business Management** (also planning to pursue 3rd major in **Electronic Engineering**) at [HKUST](https://hkust.edu.hk/home).
+Hey! This is :stars:Stardust here. I'm a year 3 [dual degree](https://techmgmt.hkust.edu.hk/) student in **Computer Science** and **General Business Management** (potentially 3rd major in **Electronic Engineering**) at [HKUST](https://hkust.edu.hk/home).
 
 ## Who am I?
 
-- Currently a developer at :snowflake:[Flurry Finance](https://www.flurry.finance/) (GitHub profile [here](https://github.com/FlurryFinance)), a DeFi yield aggregator
+I'm now an undergraduate researcher under [Prof. Ling SHI](https://eesling.home.ece.ust.hk/)'s supervision for the project "RFID-based Indoor Localization for UGV".
+
+Some of my previous responsibilities:
+
+- Previously a developer at :snowflake:[Flurry Finance](https://www.flurry.finance/), a DeFi yield aggregator, since Summer 2021 for over half a year
 - Led a student analyst team in prototyping a :chart_with_upwards_trend:FinTech startup prediction model by ML for [UBS (Zurich HQ)](https://www.ubs.com) in 2020 Q4
 - Team Leader and :zap:Senior Hardware Engineer in the Robocon Subteam of the [HKUST Robotics Team](https://robotics.ust.hk/) in my junior years at university
 
@@ -18,10 +22,13 @@ I wish to do research that involves **numerical methods** and their **implementa
 - optimization
 - control theory
 
+A side dish would be formal methods for program verification, btw.
+
 ## Recently I'm up to...
 
 - Learning bash scripting
 - Getting more productive with Linux-based OS (I partitioned my disk for Ubuntu lol)
+- Learning React.js and Next.js (somehow I need to learn some web programming...)
 
 ## Technologies I've Worked with
 
@@ -29,16 +36,20 @@ I wish to do research that involves **numerical methods** and their **implementa
 
 | Area | Language | Tech Stack |
 | :--- | :--- | :--- |
-| Software Engineering <br/> Formal Verification | ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) | ![JUnit](https://img.shields.io/badge/JUnit5-25a162?style=flat&logo=JUnit5&logoColor=white) + JavaFX (GUI) <br/> Analysis: Apron + Soot, Logging: SLF4J + Logback, Coverage: JaCoCo |
+| Software Engineering / OOP | ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) <br/> ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) | ![JUnit](https://img.shields.io/badge/JUnit5-25a162?style=flat&logo=JUnit5&logoColor=white) + JavaFX (GUI) + SLF4J + Logback + JaCoCo <br/> ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=flat&logo=Qt&logoColor=white) (*and my teammates. They exemplified what it meant to be excellent programmers to me, who was still a beginner back then. Check out their great work [here](https://github.com/kkdlau/COMP2012H-OPERATION-H).*) |
+| Formal Verification | ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) <br/> Viper$^{(1)}$ + Alloy$^{(2)}$ | Apron (Java numerical analysis) + Soot (Java pointer analysis) |
 | Functional Programming | ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=flat&logo=haskell&logoColor=white) | |
-| Blockchain / DeFi / Smart Contract / Web3 | ![Solidity](https://img.shields.io/badge/Solidity-2980b9.svg?style=flat&logo=Solidity&logoColor=1c1c1c) ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) | Blockchains: ![Ethereum](https://img.shields.io/badge/Ethereum-151c2f.svg?style=flat&logo=ethereum&logoColor=8a92b2) ![BNB Chain](https://img.shields.io/badge/BNB_Chain-202733.svg?style=flat&logo=binance&logoColor=f0b809) + Polygon + Avalanche + Arbitrum <br/> Integrated Projects: ![Chainlink](https://img.shields.io/badge/Chainlink-white.svg?style=flat&logo=chainlink&logoColor=375bd2) + Uniswap (and its forks) + Aave + Venus + Alpaca + Rabbit + ~~Qubit~~ (hacked) + ~~Cream~~ (hacked) <br/> Libraries / Tools: OpenZeppelin + Hardhat + Ethers.js + Remix + Metamask |
+| Blockchain / DeFi / Smart Contract / Web3 | ![Solidity](https://img.shields.io/badge/Solidity-2980b9.svg?style=flat&logo=Solidity&logoColor=1c1c1c) ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) | Blockchains: ![Ethereum](https://img.shields.io/badge/Ethereum-151c2f.svg?style=flat&logo=ethereum&logoColor=8a92b2) ![BNB Chain](https://img.shields.io/badge/BNB_Chain-202733.svg?style=flat&logo=binance&logoColor=f0b809) + Polygon + Avalanche + Arbitrum <br/> Integrated Projects: ![Chainlink](https://img.shields.io/badge/Chainlink-white.svg?style=flat&logo=chainlink&logoColor=375bd2) + Uniswap (and its forks) + Aave + Venus + Alpaca + Rabbit <br/> Libraries / Tools: OpenZeppelin + Hardhat + Ethers.js + Remix + Metamask |
 | Backend / Scripting / Testing | ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) | ![Mocha](https://img.shields.io/badge/Mocha-%238D6748?style=flat&logo=Mocha&logoColor=white) ![Chai](https://img.shields.io/badge/Chai-e9ce99?style=flat&logo=chai&logoColor=9b1b14) ![NodeJS](https://img.shields.io/badge/Node.js-%2343853D.svg?style=flat&logo=node.js&logoColor=white), etc. |
 | AI / ML / Data Science | ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=white) | ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=flat&logo=Jupyter&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/Numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![Anaconda](https://img.shields.io/badge/Anaconda-3eb049.svg?style=flat&logo=anaconda&logoColor=white), etc. |
 | Database (Relational) | SQL | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white) |
 | Systems Programming / Networks | ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white) | |
 | Documentation / Typesetting / UML | ![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?style=flat&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) | ![GitBook](https://img.shields.io/badge/GitBook-1c2e27.svg?style=flat&logo=GitBook&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) + PlantUML |
 | DevOps | ![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) + YAML | Version Control: ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-%23181717.svg?style=flat&logo=gitlab&logoColor=white) <br/> Build Tools: ![Gradle](https://img.shields.io/badge/Gradle-02303a?style=flat&logo=Gradle&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat&logo=Apache%20Maven&logoColor=white) <br/> Package Manager: ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=flat&logo=yarn&logoColor=white) <br/> Container Platform: ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) |
-| (*Surviving my OOP Course*) | ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) | ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=flat&logo=Qt&logoColor=white) (*and my teammates. They exemplified what it meant to be excellent programmers to me, who was still a beginner back then. Check out their great work [here](https://github.com/kkdlau/COMP2012H-OPERATION-H).*) |
+
+(1): Verification Infrastructure for Permission-based Reasoning. It is a C-like language for formal verification.
+
+(2): A declarative specification language for model checking. It is based on first-order logic.
 
 ### I also know a bit about...
 
@@ -81,18 +92,4 @@ Games I really enjoyed: Sekiro, Bloodborne, Nioh, Monster Hunter series, Mario B
 <a href="mailto:kfliad@connect.ust.hk">![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)</a>
 
 ----
-Last edited on: 09/05/2022
-<!--
-**StardustLID/StardustLID** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Last edited on: 28/05/2022

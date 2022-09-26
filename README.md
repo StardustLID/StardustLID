@@ -1,10 +1,10 @@
 # A (Sound and Complete) Introduction to Stardust
 
-Hey! This is :stars:Stardust here. I'm a year 3 [dual degree](https://techmgmt.hkust.edu.hk/) student in **Computer Science** and **General Business Management** (potentially 3rd major in **Electronic Engineering**) at [HKUST](https://hkust.edu.hk/home).
+Hey! This is :stars:Stardust here. I'm a year 4 [dual degree](https://techmgmt.hkust.edu.hk/) student in **Computer Science** and **General Business Management** (plus a 3rd major in **Electronic Engineering**) at [HKUST](https://hkust.edu.hk/home).
 
 ## Who am I?
 
-I'm now an undergraduate researcher under [Prof. Ling SHI](https://eesling.home.ece.ust.hk/)'s supervision for the project "RFID-based Indoor Localization for UGV".
+I'm now an undergraduate researcher under [Prof. Ling SHI](https://eesling.home.ece.ust.hk/)'s supervision for the project "RFID-based Indoor Localization for UGV". I'm also working on an algo trade project with my friends.
 
 Some of my previous responsibilities:
 
@@ -101,4 +101,4 @@ Games I really enjoyed: Sekiro, Bloodborne, Nioh, Monster Hunter series, Mario B
 <a href="mailto:kfliad@connect.ust.hk">![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)</a>
 
 ----
-Last edited on: 05/07/2022
+Last edited on: 26/09/2022

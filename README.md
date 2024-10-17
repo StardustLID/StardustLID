@@ -1,34 +1,15 @@
-# A (Sound and Complete) Introduction to Stardust
+# Who am I?
 
-Hey! This is :stars:Stardust here. I'm a year 4 [dual degree](https://techmgmt.hkust.edu.hk/) student in **Computer Science** and **General Business Management** (plus a 3rd major in **Electronic Engineering**) at [HKUST](https://hkust.edu.hk/home).
+Hey! This is :stars:Stardust here. I'm pursuing my Ph.D. in Electrical Engineering at the [University of Toronto](https://www.utoronto.ca/).
 
-## Who am I?
-
-I'm now an undergraduate researcher under [Prof. Ling SHI](https://eesling.home.ece.ust.hk/)'s supervision for the project "RFID-based Indoor Localization for UGV". I'm also working on an algo trade project with my friends.
-
-Some of my previous responsibilities:
-
-- Previously a developer at :snowflake:[Flurry Finance](https://www.flurry.finance/), a DeFi yield aggregator, since Summer 2021 for over half a year
-- Led a student analyst team in prototyping a :chart_with_upwards_trend:FinTech startup prediction model by ML for [UBS (Zurich HQ)](https://www.ubs.com) in 2020 Q4
-- Team Leader and :zap:Senior Hardware Engineer in the Robocon Subteam of the [HKUST Robotics Team](https://robotics.ust.hk/) in my junior years at university
-
-I usually spend my own time enjoying :two_hearts:anime, :video_game:video games, :yum:food and :coffee:coffee (drinkable coffee, not `Java`).
+I graduated from the [Dual Degree Program](https://techmgmt.hkust.edu.hk/) at [HKUST](https://hkust.edu.hk/home), majoring in **Computer Science** and **General Business Management** (plus a 3rd major in **Electronic Engineering**).
+I usually spend my own time enjoying :two_hearts:anime, :video_game:video games, :yum:food and :coffee:coffee (not `Java`).
 
 ## My Research Interests
 
-I wish to do research that involves **numerical methods** and their **implementation in code**. Possible fields are:
-- scientific computing
-- signal processing
-- optimization
-- control theory
-
-A side dish would be formal methods for program verification, btw.
-
-## Recently I'm up to...
-
-- Learning bash scripting
-- Getting more productive with Linux-based OS (I partitioned my disk for Ubuntu lol)
-- Learning React.js and Next.js (somehow I need to learn some web programming...)
+I am currently interested in **stochastic and risk-aware control**. I've also been exposed to the following areas:
+- Event-Triggered Mechanism
+- Phase Theory
 
 ## Technologies I've Worked with
 
@@ -60,16 +41,11 @@ A side dish would be formal methods for program verification, btw.
 | Web / UI | ![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat&logo=HTML5) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white) (*) ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) (**) | ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=flat&logo=chart.js&logoColor=white) ![Material Design](https://img.shields.io/badge/Material_Design-757575.svg?style=flat&logo=material-design&logoColor=black) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=WordPress&logoColor=white) |
 | Mobile | ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) | ![Android Studio](https://img.shields.io/badge/Android_Studio-6e6e6e.svg?style=flat&logo=androidstudio&logoColor=94c855) ![Material Design](https://img.shields.io/badge/Material_Design-757575.svg?style=flat&logo=material-design&logoColor=black) |
 
-(*) Disclaimer: I do not recognise HTML and CSS as "programming" languages :p
-
-(**) I only know backend JS/TS. In the frontend, they look like another language to me!
-
 ## Open-Sourcing My Code
 
 I'll always try my best to open-source my code if possible.
 Here are a few heuristics:
 
-- [This profile](https://github.com/StardustLID/StardustLID) and [CV](https://github.com/StardustLID/CV) are always "public".
 - Code for courses is "public" (possibly "archive") if:
   - all collaborators give consent; AND
   - its submission deadline has passed if it is a project; AND
@@ -77,28 +53,18 @@ Here are a few heuristics:
   - it is NOT reused as graded work across semesters (let's be fair and don't give spoilers)
 - **Proprietary code is never forked or made "public".** However, I'm happy to discuss implementation details as long as I'm allowed to do so.
 
-## My Workspace Spec
-
-I use a personal laptop with the following spec:
-
-![Dell XPS 13 9310](https://img.shields.io/badge/Dell-XPS_13_9310-007DB8?style=for-the-badge&logo=dell&logoColor=white)
-![Intel Core i7 11th](https://img.shields.io/badge/Intel-Core_i7_11th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
-![Intel Iris Xe Graphics](https://img.shields.io/badge/Intel-Iris_Xe_Graphics-0071C5?style=for-the-badge&logo=intel&logoColor=white)
-
-Plus an Asus Zenscreen MB14AC and/or Acer 27' display (forgot its model number lol).
-
-## Gaming:
+<!-- ## Gaming:
 
 ![PlayStation 4](https://img.shields.io/badge/PlayStation%204-003791?style=flat&logo=playstation-4&logoColor=white)
 ![Switch](https://img.shields.io/badge/Switch-E60012?style=flat&logo=nintendo-switch&logoColor=white)
 
-Games I really enjoyed: Sekiro, Bloodborne, Nioh, Monster Hunter series, Mario Bros series, BanG Dream...
+Games I really enjoyed: Sekiro, Bloodborne, Nioh, Monster Hunter series, Mario Bros series, BanG Dream... -->
 
 ## You can reach me through:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/calvin-kin-fung-li/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/stardust_lid/)
-<a href="mailto:kfliad@connect.ust.hk">![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)</a>
+<a href="mailto:calvinkf.li@mail.utoronto.ca">![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)</a>
 
 ----
-Last edited on: 26/09/2022
+Last edited on: 16/10/2024

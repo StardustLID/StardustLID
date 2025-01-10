@@ -7,11 +7,11 @@ I usually spend my own time enjoying :two_hearts:anime, :video_game:video games,
 
 ## My Research Interests
 
-I am currently interested in **stochastic and risk-aware control**. I've also been exposed to the following areas:
+I am currently interested in **risk-aware control**. I've also been exposed to the following areas:
 - Event-Triggered Mechanism
 - Phase Theory
 
-## Technologies I've Worked with
+<!-- ## Technologies I've Worked with
 
 ### I'm proficient at...
 
@@ -53,18 +53,18 @@ Here are a few heuristics:
   - it is NOT reused as graded work across semesters (let's be fair and don't give spoilers)
 - **Proprietary code is never forked or made "public".** However, I'm happy to discuss implementation details as long as I'm allowed to do so.
 
-<!-- ## Gaming:
+## Gaming:
 
 ![PlayStation 4](https://img.shields.io/badge/PlayStation%204-003791?style=flat&logo=playstation-4&logoColor=white)
 ![Switch](https://img.shields.io/badge/Switch-E60012?style=flat&logo=nintendo-switch&logoColor=white)
 
-Games I really enjoyed: Sekiro, Bloodborne, Nioh, Monster Hunter series, Mario Bros series, BanG Dream... -->
+Games I really enjoyed: Sekiro, Bloodborne, Nioh, Monster Hunter series, Mario Bros series, BanG Dream...
 
 ## You can reach me through:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/calvin-kin-fung-li/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/stardust_lid/)
-<a href="mailto:calvinkf.li@mail.utoronto.ca">![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)</a>
+<a href="mailto:calvinkf.li@mail.utoronto.ca">![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)</a> -->
 
 ----
-Last edited on: 16/10/2024
+Last edited on: 10/01/2025
